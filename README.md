@@ -10,13 +10,32 @@ Committed to fostering a security-aware community, I serve as the Chapter Lead a
 
 My GitHub showcases my projects, contributions, and journey in this exciting field. Feel free to explore, collaborate, or reach out - let's build a safer digital future together!
 
+## Table of Contents
+- [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
+- [🤝 Looking to Collaborate On](#-looking-to-collaborate-on)
+- [🆘 Looking for Help With](#-looking-for-help-with)
+- [🌱 Currently Learning](#-currently-learning)
+- [🙋‍♂️ Ask Me About](#️-ask-me-about)
+- [⚡ Fun Fact](#-fun-fact)
+- [🛡️ Discreet Contact Points](#️-discreet-contact-points)
+- [🌐 Connect with Me](#-connect-with-me)
+- [💻 Tech Stack](#-tech-stack)
+- [💖 Support My Work](#-support-my-work)
+- [📊 GitHub Stats](#-github-stats)
+- [🏆 GitHub Trophies](#-github-trophies)
+
 ## 🔭 What I'm Currently Working On
 - Enhancing open-source software for cybersecurity applications
+  - Developing privacy-preserving tools and frameworks
+  - Optimizing performance and scalability of security solutions
 - Strategizing penetration testing / red teaming methodologies
+  - Researching advanced techniques for identifying and exploiting vulnerabilities
+  - Designing comprehensive security assessment frameworks
 
 ## 🤝 Looking to Collaborate On
-- Projects that push the boundaries of cybersecurity, particularly in threat research and IT auditing
-- Initiatives that leverage my chess strategies into problem-solving in tech
+- Privacy-enhancing technologies (PETs) projects, such as homomorphic encryption and secure multi-party computation
+- Initiatives that leverage game theory and strategic thinking from chess to solve complex problems in cybersecurity
+- Open-source projects focused on blockchain security, smart contract auditing, and decentralized identity management
 
 ## 🆘 Looking for Help With
 - Advancing my knowledge in the latest cybersecurity trends and technologies
@@ -91,9 +110,28 @@ When I'm not cracking codes or fortifying firewalls, I'm strategizing my next mo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iAnonymous3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iAnonymous3000&theme=dark&hide_border=false)<br/>
+## 💖 Support My Work
+
+I am committed to protecting individual privacy and promoting the use of secure, untraceable payment methods. If you appreciate my work in the realm of cybersecurity, privacy, and open-source advocacy, and would like to support my ongoing efforts, please consider making a donation using Monero (XMR).
+
+Monero is a privacy-centric cryptocurrency that ensures transactions are confidential and untraceable. By using Monero, you can support my work while maintaining your financial privacy.
+
+### Donation Option
+- **Monero (XMR)**: `44wUtdTeD1cgAYKvNXjywvMHFzF1UkqHfcRkqK22nPnWKUCuQVESrrwVb3BRtjwTQUM2TuCLUbxiJfZjx2fBbjkEExA5XKN`
+
+![XMR Donation QR Code](https://github.com/iAnonymous3000/iAnonymous3000/assets/32236127/dc1d24c3-ea6a-46be-9d5e-95b42f9c27e3)
+
+If you prefer an alternative method or have any questions, feel free to reach out to me via secure channels like Signal or SimpleX Chat, and I'll be happy to assist you.
+
+Your support, no matter the amount, empowers me to dedicate more time and resources to research, develop privacy-enhancing solutions, and create educational content to help others safeguard their digital lives. I am grateful for your contribution and pledge to use the funds responsibly to further our shared mission.
+
+Thank you for standing with me in the fight for privacy! 🙏
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=iAnonymous3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=iAnonymous3000&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iAnonymous3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
