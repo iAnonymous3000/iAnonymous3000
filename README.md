@@ -22,7 +22,6 @@ My GitHub showcases my projects, contributions, and journey in this exciting fie
 - [💻 Tech Stack](#-tech-stack)
 - [💖 Support My Work](#-support-my-work)
 - [📊 GitHub Stats](#-github-stats)
-- [🏆 GitHub Trophies](#-github-trophies)
 
 ## 🔭 What I'm Currently Working On
 - Enhancing open-source software for cybersecurity applications
@@ -54,7 +53,6 @@ When I'm not cracking codes or fortifying firewalls, I'm strategizing my next mo
 ## 🛡️ Discreet Contact Points
 [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/tao35l1vQxmrWcie6iW3dXlcFo0t3Pzae7WFHEMJnAIqKn2WxP5KnKKq5ClE+ZDD)
 [![SimpleX Chat](https://img.shields.io/badge/SimpleX%20Chat-1C1C1C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAADqADAAQAAAABAAAADgAAAAD1ZxN6AAABY0lEQVQoFX2SPUvEQBCGn3d3Dy/EKkVALUSTWq9QCOwVVMjZa+lCCKZM52Fy/QM2oLWVFiIWqVJaWaUXsbCysBHBB+wTPMzOzszOO6vcKQkFMB1kYEWmGZIcL4wGpwKVrYWgUMtfAQMfuAgxEP8A9bWrAD1HQZPk60oMxY+CBAw1Cf/Y7VicMmF1TrIk6SIEydjmWcQmM5IvQ8yUZKlxOb7nTEqtdSw5taqIGZc0S46zN4QEPrA+ND9vYK3r4NqRMZUzOcmbY8nNXgf8HTg7OsFIjyVqz6F9B+bO7zNrmSkuM5KMQiwOXJiUlTFsrMAUa14f8uh8TYgagEL9K/cWBDpfdqBQhtkm1FdhbV4G/ANRD+dTKKdWjYhPw85ynOx38n5y9ANoBHQGC5YC1wAAAABJRU5ErkJggg==&logoColor=white)](https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2F7OxKkrya3AZ0VQOEd3gXa8-ZhIQ3FZ6m%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAm4REeyGgxI1Ut5tA8a0xUspvL3SfnvUUNngLb6vQ8hY%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion)
-[![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=Keybase&logoColor=white)](https://keybase.io/ianonymous3000)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soorajsathyanarayanan)
@@ -68,9 +66,9 @@ When I'm not cracking codes or fortifying firewalls, I'm strategizing my next mo
 
 ## 💻 Tech Stack
 ### Programming Languages
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -100,8 +98,8 @@ When I'm not cracking codes or fortifying firewalls, I'm strategizing my next mo
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Other
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
@@ -134,17 +132,8 @@ Thank you for standing with me in the fight for privacy! 🙏
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iAnonymous3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iAnonymous3000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iAnonymous3000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iAnonymous3000&icon=0&color=0)](https://visitcount.itsvg.in)
