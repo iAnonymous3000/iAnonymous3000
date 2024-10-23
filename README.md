@@ -115,11 +115,11 @@ Monero and Zcash are privacy-centric cryptocurrencies that ensure transactions a
 ### Donation Options
 - **Monero (XMR)**: `882aSLEXeL19CnSsJ3icFWirV4Q2riEmr9sv7rLu21yLBphjMXc4zCViMmW1NTFjSuKtyNSQjkCrR6e9FqhKV399Muj6gs6`
 
-![XMR Donation QR Code](https://raw.githubusercontent.com/iAnonymous3000/iAnonymous3000/main/assets/xmr_qr_code.png)
+![XMR Donation QR Code](https://github.com/user-attachments/assets/ab327dbe-cbbc-4f84-9e87-297b9df9cb76)
 
 - **Zcash (ZEC)**: `u15sc93jcpngdtpx7tr0whpqtzfhmdvp45507c6tg495mcm2x8ryyllsg8pgnzjqcywuka6uevrnn56s60raazk7g5zf206ltcn6ujw6jalndvy77zse69prrcw5203rndlnwuwk37v8knawx5lx5kdssp75t60pjq4rx8fsy0eygl5z2evnkxv7m8v0x20jv2k9aht37agduws2z5cx9`
 
-![ZEC Donation QR Code](https://raw.githubusercontent.com/iAnonymous3000/iAnonymous3000/main/assets/zec_qr_code.png)
+![ZEC Donation QR Code](https://github.com/user-attachments/assets/1c42259a-4141-451e-abbb-5c224d5ceaa8)
 
 If you prefer an alternative method or have any questions, feel free to reach out to me via secure channels like Signal, and I'll be happy to assist you.
 
