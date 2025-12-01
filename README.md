@@ -55,7 +55,7 @@ When I'm not cracking codes or fortifying firewalls, I'm strategizing my next mo
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soorajsathyanarayanan)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iAnonymous3000)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iAnonymous3000)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAnonymous3000)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ianonymous3000@mastodon.social)
 [![Pixelfed](https://img.shields.io/badge/Pixelfed-FE5456.svg?style=for-the-badge&logo=pixelfed&logoColor=white)](https://pixelfed.social/iAnonymous3000)
