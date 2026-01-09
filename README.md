@@ -63,10 +63,3 @@ u15sc93jcpngdtpx7tr0whpqtzfhmdvp45507c6tg495mcm2x8ryyllsg8pgnzjqcywuka6uevrnn56s
 ![ZEC Donation QR Code](https://github.com/user-attachments/assets/1c42259a-4141-451e-abbb-5c224d5ceaa8)
 </details>
 
-## GitHub Stats
-
-![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAnonymous3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAnonymous3000&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAnonymous3000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
