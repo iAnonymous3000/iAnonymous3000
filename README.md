@@ -1,43 +1,46 @@
 # Sooraj Sathyanarayanan
 
-Cybersecurity researcher with an MS in Cybersecurity from Northeastern University. I focus on privacy-preserving technologies, penetration testing, and open-source security tooling.
+I'm a **Program Manager at Brave** and a cybersecurity and privacy researcher. I build open-source security tools and write practical guides for understanding how software handles data. I completed my **MS in Cybersecurity at Northeastern University in December 2024**.
 
-**Professional background:** IT audit, penetration testing, vulnerability management, digital forensics, and threat research. Currently Chapter Lead at null NEU, where I run cybersecurity education and outreach programs.
+[Website](https://profincognito.me/) · [Research](https://profincognito.me/research/) · [LinkedIn](https://www.linkedin.com/in/soorajsathyanarayanan/)
 
-## Current Work
+## Selected projects
 
-- Building open-source security tools with a focus on privacy-preserving frameworks
-- Developing penetration testing methodologies and security assessment frameworks
-- Research in advanced vulnerability identification and exploitation techniques
+| Project | What it does |
+| --- | --- |
+| [Site Behavior Lab](https://github.com/iAnonymous3000/site-behavior-lab) | Records website behavior during automated browser visits, including requests, cookies, storage, and consent behavior. Reports connect findings to observations and describe what the scan covered. |
+| [Trace](https://github.com/iAnonymous3000/tracescan) | Uses Rust and WebAssembly to check iPhone sysdiagnose archives for known spyware indicators in the browser. Its coverage is limited; a scan cannot establish that a device is free of compromise. |
+| [Metadata Remover](https://github.com/iAnonymous3000/metadata-remover) | Inspects and removes structural metadata from supported images, documents, audio, and video in the browser. It does not remove sensitive information visible in the content itself. |
+| [QRWarden](https://github.com/iAnonymous3000/qrwarden) | A pre-release QR inspector that shows decoded content and URL properties before opening a destination. It does not certify that a link is safe. |
 
-## Collaboration Interests
+## Security guides
 
-- Privacy-enhancing technologies: homomorphic encryption, secure multi-party computation
-- Blockchain security, smart contract auditing, decentralized identity
-- Open-source security projects
+I write and curate practical security resources, including an [iOS hardening guide](https://github.com/iAnonymous3000/iOS-Hardening-Guide), a [GrapheneOS guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide), and a [GitHub hardening guide](https://github.com/iAnonymous3000/GitHub-Hardening-Guide). More work is collected on my [projects page](https://profincognito.me/projects/).
+
+## Selected contributions
+
+Some examples of my accepted contributions to other projects:
+
+- **Hush Line:** [privacy-policy additions and clarifications](https://github.com/scidsg/hushline/pull/258), merged March 2024.
+- **Ente:** [security-policy wording and formatting improvements](https://github.com/ente/ente/pull/2086), merged June 2024.
+- **Kagi:** [added Ente Auth to its two-factor authentication documentation](https://github.com/kagisearch/kagi-docs/pull/366), merged March 2024.
+
+## Research
+
+I coauthored two conference papers indexed in IEEE Xplore:
+
+- [Quantum-Resilient Zero-Trust Architectures in Edge Computing Networks: Theoretical Foundations and Complexity Bounds](https://ieeexplore.ieee.org/document/11430991) — ICCA 2025; added to Xplore in March 2026.
+- [Lightweight Multi-Tenant Security Isolation for Resource-Constrained Edge Computing Platforms: A Theoretical Framework](https://ieeexplore.ieee.org/document/11344385) — EdgeCom 2025; added to Xplore in January 2026.
+
+## Writing, coverage, and community
+
+[Clubic covered my analysis of Microsoft Edge's network privacy feature](https://www.clubic.com/actualite-601642-non-le-navigateur-edge-n-a-pas-de-vpn-selon-cet-expert-en-securite-chez-brave.html), [AIM quoted me on AI-enabled voice phishing](https://analyticsindiamag.com/ai-features/is-ai-led-vishing-the-smartest-scam-yet/), and [Bitwarden featured my security guide](https://bitwarden.com/resources/feb-2025-spotlight-just-released-bitwarden-security-readiness-kit/). The [Hush Line draft whitepaper](https://hushline.app/assets/files/draft-whitepaper.pdf#page=39) acknowledges my DevSecOps contribution.
+
+I previously served as founder and Chapter Lead / President of **null NEU** (November 2022–December 2024), then as an advisor (January–August 2025), organizing cybersecurity education and community activities.
 
 ## Contact
 
-**Secure:**
-[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/tao35l1vQxmrWcie6iW3dXlcFo0t3Pzae7WFHEMJnAIqKn2WxP5KnKKq5ClE+ZDD)
-
-**Professional:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soorajsathyanarayanan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAnonymous3000)
-
-**Social:**
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iAnonymous3000)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ianonymous3000@mastodon.social)
-[![Pixelfed](https://img.shields.io/badge/Pixelfed-FE5456.svg?style=for-the-badge&logo=pixelfed&logoColor=white)](https://pixelfed.social/iAnonymous3000)
-[![Nostr](https://img.shields.io/badge/Nostr-602C0C.svg?style=for-the-badge&logo=nostr&logoColor=white)](https://njump.me/npub1dn9rvp2w7hdxgwl6j6rvujywyan559ghmdvrk6huydhzrz7a90fq6vleul)
-
-## Tech Stack
-
-**Languages:** Rust, Python, Bash, JavaScript, SQL, C/C++, Java, Solidity
-
-**Security & Infrastructure:** AWS, Docker, Kubernetes, Tor, WireGuard
-
-**Tools:** Bitwarden, Postman, GitLab, Jira, Confluence
+For public, non-sensitive questions about my work, mention [@iAnonymous3000 on X](https://x.com/iAnonymous3000). For private security reports, use the routes on my [contact page](https://profincognito.me/contact/).
 
 ## Support
 
