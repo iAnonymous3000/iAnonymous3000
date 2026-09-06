@@ -1,6 +1,6 @@
 # Sooraj Sathyanarayanan
 
-I'm a **Program Manager at Brave** and a cybersecurity and privacy researcher. I build open-source security tools and write practical guides for understanding how software handles data. I completed my **MS in Cybersecurity at Northeastern University in December 2024**.
+I'm a **Program Manager at Brave** and a cybersecurity and privacy researcher. I build open-source security tools and write practical guides for understanding how software handles data. I hold an **MS in Cybersecurity from Northeastern University**.
 
 [Website](https://profincognito.me/) · [Research](https://profincognito.me/research/) · [Google Scholar](https://scholar.google.com/citations?user=NwIwfYkAAAAJ) · [LinkedIn](https://www.linkedin.com/in/soorajsathyanarayanan/)
 
