@@ -22,7 +22,7 @@ I write and curate practical security resources, including an [iOS hardening gui
 Some examples of my accepted contributions to other projects:
 
 - **Hush Line:** [privacy-policy additions and clarifications](https://github.com/scidsg/hushline/pull/258), merged March 2024.
-- **Ente:** [security-policy wording and formatting improvements](https://github.com/ente/ente/pull/2086), merged June 2024.
+- **Ente PrivacyPack:** [multiple privacy alternatives per category](https://github.com/ente/privacypack/commit/699a15f06a3cb536bd5d5ce3dff53a69275c0c5b) and [mobile builder/export layout improvements](https://github.com/ente/privacypack/commit/0df66820147544a557184d8aaf2a18bc1187ebde), integrated in April–May 2026. I also contributed [security-policy wording and formatting improvements](https://github.com/ente/ente/pull/2086) to Ente in 2024.
 - **Kagi:** [added Ente Auth to its two-factor authentication documentation](https://github.com/kagisearch/kagi-docs/pull/366), merged March 2024.
 
 ## Research
