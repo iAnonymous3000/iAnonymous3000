@@ -34,6 +34,8 @@ I coauthored three conference papers: two indexed in IEEE Xplore and one publish
 - [Lightweight Multi-Tenant Security Isolation for Resource-Constrained Edge Computing Platforms: A Theoretical Framework](https://ieeexplore.ieee.org/document/11344385) — EdgeCom 2025; added to Xplore in January 2026.
 - [Adaptive Fuzzy Logic Framework for Context-Aware Blockchain Security](https://link.springer.com/chapter/10.1007/978-981-95-7292-2_14) — CISCom 2025; *Computational Intelligence and Soft Computing*, CCIS volume 2853, pp. 191–199; first online in March 2026.
 
+My research on the privacy of fitness wearables received grant support from the Ludlow Institute through Timechain Consulting, beginning in 2025.
+
 ## Writing, coverage, and community
 
 [Clubic covered my analysis of Microsoft Edge's network privacy feature](https://www.clubic.com/actualite-601642-non-le-navigateur-edge-n-a-pas-de-vpn-selon-cet-expert-en-securite-chez-brave.html), [PiunikaWeb covered my critique of X Chat's security architecture](https://piunikaweb.com/2026/01/07/elon-musk-break-x-encryption-challenge/), [AIM quoted me on AI-enabled voice phishing](https://analyticsindiamag.com/ai-features/is-ai-led-vishing-the-smartest-scam-yet/), and [Bitwarden featured my security guide](https://bitwarden.com/resources/feb-2025-spotlight-just-released-bitwarden-security-readiness-kit/). The [Hush Line draft whitepaper](https://hushline.app/assets/files/draft-whitepaper.pdf#page=39) acknowledges my DevSecOps contribution.
