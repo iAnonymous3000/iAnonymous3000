@@ -34,7 +34,7 @@ I coauthored three conference papers: two indexed in IEEE Xplore and one publish
 - [Lightweight Multi-Tenant Security Isolation for Resource-Constrained Edge Computing Platforms: A Theoretical Framework](https://ieeexplore.ieee.org/document/11344385) — EdgeCom 2025; added to Xplore in January 2026.
 - [Adaptive Fuzzy Logic Framework for Context-Aware Blockchain Security](https://link.springer.com/chapter/10.1007/978-981-95-7292-2_14) — CISCom 2025; *Computational Intelligence and Soft Computing*, CCIS volume 2853, pp. 191–199; first online in March 2026.
 
-My research on the privacy of fitness wearables received grant support from the Ludlow Institute through Timechain Consulting, beginning in 2025.
+My research on the privacy of fitness wearables received grant support from the [Ludlow Institute](https://www.ludlowinstitute.org/grants) through Timechain Consulting, beginning in 2025.
 
 ## Writing, coverage, and community
 
