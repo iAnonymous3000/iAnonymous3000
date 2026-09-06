@@ -21,6 +21,7 @@ I write and curate practical security resources, including an [iOS hardening gui
 
 Some examples of my accepted contributions to other projects:
 
+- **SimpleX Chat:** Independently reproduced the [v6.3.1 server release build](https://github.com/simplex-chat/simplexmq/releases/tag/v6.3.1); acknowledged in the official release with a published checksum signature (March 2025).
 - **Hush Line:** [privacy-policy additions and clarifications](https://github.com/scidsg/hushline/pull/258), merged March 2024.
 - **Ente PrivacyPack:** [response-header hardening and runtime updates](https://github.com/ente/privacypack/commit/c21ac259e5c6b114cb2884a66393efc6f928a352), [catalog validation and browser tests](https://github.com/ente/privacypack/commit/a251b32c1b65ea5dd56faa269ea60e79ec5819eb), [multiple privacy alternatives per category](https://github.com/ente/privacypack/commit/699a15f06a3cb536bd5d5ce3dff53a69275c0c5b), and [mobile builder/export layout improvements](https://github.com/ente/privacypack/commit/0df66820147544a557184d8aaf2a18bc1187ebde), integrated in April–May 2026. I also contributed [security-policy wording and formatting improvements](https://github.com/ente/ente/pull/2086) to Ente in 2024.
 - **Kagi:** [added Ente Auth to its two-factor authentication documentation](https://github.com/kagisearch/kagi-docs/pull/366), merged March 2024.
